@@ -1,7 +1,7 @@
 uses crt;
 
 var
-  map: array[1..10,1..10] of integer; //Create an array (field) where the numbers will be displayed
+  map: array[1..10,1..10] of integer; //Create an array (field) where the numbers will be displayed (i called this "map" lol)
   
   i,j: integer; //Variable of numbers
 
